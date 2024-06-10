@@ -10,3 +10,4 @@ $upperString = $combinedString.ToUpper()
 # Output the result
 Write-Output "Combined String: $combinedString"
 Write-Output "Uppercase String: $upperString"
+Write-Output "Changes made"
